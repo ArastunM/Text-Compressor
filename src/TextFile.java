@@ -54,7 +54,6 @@ public class TextFile {
      * @return read list of encodedBytes
      */
     public byte[] readBinaryFile() {
-        // plagiarised
         File file = new File(filePath);
         byte[] readBytes = new byte[0];
 
