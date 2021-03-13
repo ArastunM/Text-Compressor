@@ -68,12 +68,18 @@ Or (provided current file structure is kept)
 1. Follow step 1. above
 
 2. Run the HuffmanDecompress.class
-```>> java HuffmanDecompress```
+```
+>> java HuffmanDecompress
+```
 
 3. Enter the full path of the text file to be decompressed
-```>> ...\Text Compression\datasets\sample_compressed.txt```
+```
+>> ...\Text Compression\datasets\sample_compressed.txt
+```
 Or (provided current file structure is kept)
-```>> ..\datasets\sample_compressed.txt```
+```
+>> ..\datasets\sample_compressed.txt
+```
 
 NOTE: If name of the compressed file is to be changed 
 so should the name of sample_compressed_list
