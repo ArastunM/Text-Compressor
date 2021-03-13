@@ -58,4 +58,4 @@ http://pizzachili.dcc.uchile.cl/repcorpus/artificial/ (Artificial rs13.7z)
 http://pizzachili.dcc.uchile.cl/repcorpus/pseudo-real/ (Pseudo-real dblp.xml.0001.2.7z)
 http://pizzachili.dcc.uchile.cl/repcorpus/real/ (Real einstein.de.txt.7z)
 
-Link to GitHub => 
+Link to GitHub => https://github.com/ArastunM/Text-Compressor.git
