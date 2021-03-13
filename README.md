@@ -43,20 +43,28 @@ The directory should look as below:
 +-- javadoc
 ```
 
-### HOW TO COMPRESS TEXT FILES USING TEXT COMPRESSION
+### How to compress text files using Text Compressor
 1. Open command line interface and navigate to the directoy of the java class
-```>> cd ...\Text Compression\src```
+```
+>> cd ...\Text Compression\src
+```
 
 2. Run the HuffmanCompress.class
-```>> java HuffmanCompress```
+```
+>> java HuffmanCompress
+```
 
 3. Enter the full path of the text file to be compressed
 Ideally the text file should be located inside "datasets" folder
-```>> ...\Text Compression\datasets\sample.txt```
+```
+>> ...\Text Compression\datasets\sample.txt
+```
 Or (provided current file structure is kept)
-```>> ..\datasets\sample.txt```
+```
+>> ..\datasets\sample.txt
+```
 
-### HOW TO DECOMPRESS TEXT FILES USING TEXT COMPRESSION
+### How to decompress text files using Text Compressor
 1. Follow step 1. above
 
 2. Run the HuffmanDecompress.class
