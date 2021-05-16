@@ -103,6 +103,6 @@ used to build a Huffman Tree
 
 ## Details
 - Author - Arastun Mammadli
-- License - [MIT](LICENSE.txt)
+- License - [MIT](LICENSE)
 
 **Access link to [GitHub repository](https://github.com/ArastunM/Text-Compressor.git)**
